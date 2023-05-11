@@ -9,3 +9,4 @@ def r(word):
 a=r("bruh")
 print(a)
 print("bruh")
+print("bsdk")
