@@ -8,3 +8,4 @@ def r(word):
     return r
 a=r("bruh")
 print(a)
+print("bruh")
